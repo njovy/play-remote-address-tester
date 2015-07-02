@@ -1,0 +1,1 @@
+This app demonstrates that request().remoteAddress() gets called multiples times upon initialization hangs the application in a DEV mode.
